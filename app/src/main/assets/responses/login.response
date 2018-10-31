@@ -1,0 +1,13 @@
+{
+  "status": 200,
+  "message":"User successfully logged in",
+  "data":{
+    "user_name":"test",
+    "first_name":"First name",
+    "lastName":"last name",
+    "phone_number":"123456789",
+    "user_pic":"https://avatars2.githubusercontent.com/u/6951858?s=400&v=4",
+    "user_id":"14as12sad5465sa",
+    "auth_token":"asdasdgasdfaewswaet#5w"
+  }
+}

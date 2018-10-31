@@ -1,0 +1,2 @@
+# KotlinAndMVPDagger
+Just a simple example to include presenters via dependency injection and network mocking in Android via Dagger 2, Not project of ui so you need to check code manually and logs as it's only high level code for how dependency works
